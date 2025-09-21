@@ -1,4 +1,4 @@
 # CYANIDE-demo
 This is my first Git Repository.
 <br>
-Author- Shreya
+Author- Shreya C N
